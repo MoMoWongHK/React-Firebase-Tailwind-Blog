@@ -10,7 +10,7 @@ The website is a public repository by [childnoder.com](https://childnoder.com "c
 
 - Using [Tailwindcss framework](https://tailwindcss.com/ "Tailwindcss framework") 
 --  lighter bundle size.
---  fast FCP (First Contentful Pain).
+--  fast FCP (First Contentful Paint).
 --  low TBT (Total Blocking Time) .
 
 - Good Internationalization in SEO
